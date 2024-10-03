@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Concurrent_FILE /Users/margaret/Desktop/student_homework/PreConcurrent/Concurrent.app/Contents/MacOS/Concurrent)
+set(__QT_DEPLOY_TARGET_Concurrent_TYPE EXECUTABLE)
