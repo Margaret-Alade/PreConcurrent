@@ -1,8 +1,0 @@
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/Concurrent.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/edit_cache.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/rebuild_cache.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/list_install_components.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/install.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/install/local.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/install/strip.dir
-/Users/margaret/Desktop/student_homework/PreConcurrent/CMakeFiles/Concurrent_autogen.dir

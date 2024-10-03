@@ -113,7 +113,8 @@ compile_commands.json
 
 # Directories to ignore
 # ---------------------
-.qt/
+/.qt
+/CmakeFiles
 .moc/
 .obj/
 .pch/
