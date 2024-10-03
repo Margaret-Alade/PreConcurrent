@@ -40,6 +40,7 @@ ui_*.h
 wrapper.bat
 wrapper.sh
 debug_toolchain.cmake
+cmake_install.cmake
 CMakeUserPresets.json
 
 # qtcreator generated files
@@ -140,6 +141,7 @@ ipch/
 release/
 tmp/
 .cache/clangd/
+CMakeCache.txt
 # ignore both a directory as well as a symlink
 /share/qtcreator/QtProject
 
